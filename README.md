@@ -5,8 +5,6 @@ _Hello_! My name is **Sal**. I am a university student!
 
 Welcome to my page! 
 
-[denys-nevozhai-guNIjIuUcgY-unsplash](https://user-images.githubusercontent.com/71364809/174064419-fb333804-d56e-453d-8af7-4ac89c78e258.jpg)
-
 ## Awards
 
 - [AFR Top100 Future Leader](https://au.gradconnection.com/top100/future-leaders/2022/#award=coles-it-award)
