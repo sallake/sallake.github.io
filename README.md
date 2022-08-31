@@ -1,4 +1,4 @@
-_Hello_! My name is **Sal**. I am a university student!
+_Hello_! My name is **Sal**. I am a university student oursuing a combined degree in Commerce & Laws ⚖️ !
 
 Welcome to my page! 
 
@@ -9,16 +9,20 @@ Welcome to my page!
 
 ## Courses
 
-- `ARTS1481` Introductory French 1B
-- `ARTS1480` Introductory French 1A-
-- `INFS2822` Programming for Data Analytics
-- `INFS2605` Intermediate Business Programming
-- `INFS1609` Introductory Business Programming
+- `ARTS1481` Introductory French 1B 🇫🇷
+- `ARTS1480` Introductory French 1A 🇫🇷
+
+- `INFS2822` Programming for Data Analytics 🐍
+- `INFS2605` Intermediate Business Programming 👩🏻‍💻
+- `INFS1609` Introductory Business Programming 👩🏻‍💻
+
+- `LAWS1006` Foundations of Laws 🧱
+- `LAWS1015` Contracts 🤝
 
 ## Favourite Books
 
-- _All the Light We Cannot See_ by Anthony Doerr
-- _The Murder of Roger Ackroyd_ by Agatha Christie
-- _Of Mice and Men_ by John Steinbeck
+- _All the Light We Cannot See_ by Anthony Doerr ✨
+- _The Murder of Roger Ackroyd_ by Agatha Christie 🔍
+- _Of Mice and Men_ by John Steinbeck 🍃
 
 Photo by: [Denys Nevozhai](https://unsplash.com/photos/guNIjIuUcgY)
