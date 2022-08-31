@@ -11,7 +11,7 @@ Welcome to my page!
 
 - `ARTS1481` Introductory French 1B
 - `ARTS1480` Introductory French 1A-
-- `INFS2822` Programming for Data Analytics)
+- `INFS2822` Programming for Data Analytics
 - `INFS2605` Intermediate Business Programming
 - `INFS1609` Introductory Business Programming
 
