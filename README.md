@@ -1,4 +1,4 @@
-_Hello_! My name is **Salma**. I am a university student oursuing a combined degree in Laws & Commerce ⚖️ !
+_Hello_! My name is **Salma**. I am a university student pursuing a combined degree in Laws & Commerce ⚖️ !
 
 Welcome to my page! 
 
