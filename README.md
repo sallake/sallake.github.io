@@ -4,7 +4,9 @@ Welcome to my page!
 
 ## Awards
 
+- [UNSW Business School Dean’s List Award 2021] (https://www.unsw.edu.au/content/dam/pdfs/unsw-adobe-websites/business-school/faculty/student-life/2022-03_2021%20Deans%20List_UG.pdf)
 - [AFR Top100 Future Leader](https://au.gradconnection.com/top100/future-leaders/2022/)
+- [UNSW Academic Achievement Award Scholarship] (https://www.business.unsw.edu.au/Students-Site/Documents/UNSWBSAwards2020List.pdf)
 - [HSC All Rounder](https://educationstandards.nsw.edu.au/wps/portal/nesa/about/events/merit-lists/distinguished-achievers/2019/w)
 
 ## Features
@@ -53,5 +55,7 @@ Welcome to my page!
 - _The Murder of Roger Ackroyd_ by Agatha Christie 🔍
 - _Of Mice and Men_ by John Steinbeck 🍃
 - _The Shawshank Redemption_ directed by Frank Darabont 🕊
+- _Rear Window_ directed by Alfred Hitchcock 🎬
+- _Enemy of the State_ directed by Tony Scott 🍕
 
 Photo by: [Denys Nevozhai](https://unsplash.com/photos/guNIjIuUcgY)
