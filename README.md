@@ -2,11 +2,11 @@ _Hello_! My name is **Salma**. I am a university student pursuing a combined deg
 
 Welcome to my page! 
 
-## Awards
+## Awards 
 
-- [UNSW Business School Dean’s List Award 2021] (https://www.unsw.edu.au/content/dam/pdfs/unsw-adobe-websites/business-school/faculty/student-life/2022-03_2021%20Deans%20List_UG.pdf)
+- [UNSW Business School Dean's List Award 2021](https://www.unsw.edu.au/content/dam/pdfs/unsw-adobe-websites/business-school/faculty/student-life/2022-03_2021%20Deans%20List_UG.pdf)
 - [AFR Top100 Future Leader](https://au.gradconnection.com/top100/future-leaders/2022/)
-- [UNSW Academic Achievement Award Scholarship] (https://www.business.unsw.edu.au/Students-Site/Documents/UNSWBSAwards2020List.pdf)
+- [UNSW AAA Scholarship](https://www.business.unsw.edu.au/Students-Site/Documents/UNSWBSAwards2020List.pdf)
 - [HSC All Rounder](https://educationstandards.nsw.edu.au/wps/portal/nesa/about/events/merit-lists/distinguished-achievers/2019/w)
 
 ## Features
@@ -35,10 +35,12 @@ Welcome to my page!
 ### IS Project Management Courses
 - `INFS3604` Business Process Management ⇆
 - `INFS2040` Working in High-Performing Project Teams 📽
+- `INFS2030` Digital Business Management 📲
 - `INFS2603` Business Systems Analysis 🌀
 - `INFS2621` Enterprise Systems ⏳
 - `INFS1020` Working in Digital Ecosystems 👩🏻‍💻
 - `INFS1602` Digital Transformation in Business💡
+- `BUSS2000` Leading and Influencing in Business 🌐
 - `BUSS1000` Future of Business 🌐
 
 ### Other Courses
