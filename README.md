@@ -1,8 +1,8 @@
-_Hello_! My name is **Salma**. I am a university student pursuing a combined degree in Commerce & Laws ⚖️ ! 
+# 👋 Hello! I'm Salma - welcome to my page! 
 
-I have recently graduated from my Bachelors in Commerce (Business Information Systems) and am continuing my legal studies!
-
-Welcome to my page! 
+👩🏻‍💻 I'm a penultimate student pursuing a combined degree in Commerce & Laws at USYD! 
+🎓 I have recently graduated from my Bachelors in Commerce (Business Information Systems) and am continuing my legal studies!
+🚀 I'm interested in commercial law, technology law, project management, and entrepreneurship!
 
 ## Awards 
 
@@ -15,7 +15,8 @@ Welcome to my page!
 - [Authentic Learning to help students address sustainability within organisations](https://www.education.unsw.edu.au/news-events/news/authentic-learning-to-address-sustainability)
 - [INFS1020 Group Assignment featured at the University and Teaching Learning Forum](https://cdrg.blog/2022/11/03/nurturing-graduate-employability-with-prosocial-engagement/)
 
-## Courses
+## University Courses
+
 ### Law Courses
 - `LAWS1006` Foundations of Laws 🧱
 - `LAWS1015` Contracts 🤝
