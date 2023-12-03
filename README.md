@@ -25,10 +25,6 @@
 - `LAWS1023` Public International Law 🇺🇳
 - `LAWS1014` Civil and Criminal Procedure 👮🏻‍♀️
 
-### French Courses
-- `ARTS1481` Introductory French 1B 🇫🇷
-- `ARTS1480` Introductory French 1A 🇫🇷
-
 ### IS Project Management Courses
 - `INFS3600` Business Information Systems in Practice 👩🏻‍💼
 - `INFS3604` Business Process Management ⇆
@@ -40,6 +36,10 @@
 - `INFS1602` Digital Transformation in Business💡
 - `BUSS2000` Leading and Influencing in Business 🌐
 - `BUSS1000` Future of Business 🌐
+
+### French Courses
+- `ARTS1481` Introductory French 1B 🇫🇷
+- `ARTS1480` Introductory French 1A 🇫🇷
 
 ### Coding Courses
 - `INFS3634` Mobile Applications Development 📱
