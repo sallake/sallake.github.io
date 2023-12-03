@@ -30,13 +30,15 @@
         <p>
           <b>Welcome to my personal website 😊</b>
           <br>Commerce & Laws Student<br>
-          Sydney, Australia<br><br>
+          Sydney, Australia<br>
         </p> 
         {% endif %}
-
-        <a href="http://molpopgen.github.io/fwdpp">Home</a>
-        <br>
-        <a href="http://sallak.github.io/courses.md">University Courses</a>
+        <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
+        <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+        <!-- Load the element definition -->
+        <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+        <!-- Simply set the `src` attribute to your MD file and win -->
+        <a <zero-md src="courses.md"></zero-md>>University Courses</a>
         <br>
         <a href="http://sallake.github.io/projects.md">Projects</a>
 
