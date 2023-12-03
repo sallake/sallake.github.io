@@ -1,28 +1,12 @@
-theme: mmistakes/minimal-mistakes
-author:
-  avatar: https://sallake.github.io/denys-nevozhai-guNIjIuUcgY-unsplash.jpg
-  title: Salma
-  name: Sal
-  location: Sydney, Australia
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:renato@golia.tech"
-    - label: "Resume"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/resume-renato-golia.pdf"
+name: Sal
+bio: Sydney, Australia
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Kralizek"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/renatogolia/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Kralizek"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/82540"
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+
+social-network-links:
+  email: "someone@example.com"
+  linkedin: sallake
