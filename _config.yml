@@ -1,10 +1,16 @@
-theme: jekyll-theme-minimal
-logo: https://sallake.github.io/denys-nevozhai-guNIjIuUcgY-unsplash.jpg
-title: Salma
-
-# Site Author
-name: Sal
-bio: Sydney, Australia
+theme: mmistakes/minimal-mistakes
+author:
+  avatar: https://sallake.github.io/denys-nevozhai-guNIjIuUcgY-unsplash.jpg
+  title: Salma
+  name: Sal
+  location: Sydney, Australia
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:renato@golia.tech"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/resume-renato-golia.pdf"
 
 footer:
   links:
@@ -20,4 +26,3 @@ footer:
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/82540"
-
