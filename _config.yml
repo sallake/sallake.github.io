@@ -6,3 +6,13 @@ title: Salma
 name: Sal
 bio: Sydney, Australia
 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+    
+social-network-links:
+  email: "someone@example.com"
+  linkedin: sallake
+
