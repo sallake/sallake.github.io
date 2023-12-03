@@ -22,5 +22,3 @@
 - _The Shawshank Redemption_ directed by Frank Darabont 🕊
 - _Rear Window_ directed by Alfred Hitchcock 🎬
 - _Enemy of the State_ directed by Tony Scott 🍕
-
-Photo by: [Denys Nevozhai](https://unsplash.com/photos/guNIjIuUcgY)
