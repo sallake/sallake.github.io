@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Salma - welcome to my page! 
+# 👋 Hello! I'm Salma - welcome to my page 😊
 
 - 👩🏻‍💻 I'm a penultimate student pursuing a combined degree in Commerce & Laws at USYD
 - 🎓 I have recently graduated from my Bachelors in Commerce (Business Information Systems) and am continuing my legal studies
