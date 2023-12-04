@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+<center class="title">/* project */</center>
+<hr />
+<div style="text-align: center; font-size: 18px; margin: 12px">
+  [ <i style="color: red">private projects</i> ]
+</div>
+<ul>
+  <li>
+    <a href="assets/img/wishywashy.png">[ <i>wishywashy</i> ]</a>
+    <span class="project-language">javascript</span>
+    <br />
+    <i>laundry system information that host on heroku, with fully responsive.
+      and with node-js and express as backend and react js as frontend. 
+    </i>
+  </li>
+  <li>
+    <a href="assets/img/warteg.png">[ <i>warteg</i> ]</a>
+    <span class="project-language">javascript</span>
+    <br />
+    <i>food store system information with multiple roles (admin, cashier, and staff) to operate.
+      backend (node-js and express) and frontend (react js), and using graphql for api. host on heroku.
+      menu image host on aws s3 bucket.
+    </i>
+  </li>
+</ul>
+
+
+<div style="text-align: center; font-size: 18px; margin: 12px">
+  [ <i style="color: red">github open source projects</i> ]
+</div>
+<ul>
+  {% for repository in site.github.public_repositories %}
+  <li>
+    <a href="{{ repository.html_url }}"
+      >[ <i>{{ repository.name }}</i> ]</a
+    >
+    {% if repository.language %}
+    <span class="project-language" style="font-size: 11px">{{
+      repository.language
+    }}</span>
+    {% endif %} {% if repository.description %}
+    <br />
+    <i>{{ repository.description }}</i>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
