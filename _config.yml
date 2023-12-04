@@ -2,5 +2,3 @@ theme: jekyll-theme-minimal
 logo: https://sallake.github.io/denys-nevozhai-guNIjIuUcgY-unsplash.jpg
 name: Salma
 title: Salma
-header_pages:
-  - courses.md => courses.html
