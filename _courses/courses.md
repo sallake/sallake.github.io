@@ -32,7 +32,7 @@
 - `INFS2608` Database Management & Big Data Infrastructures 📊
 - `INFS1603` Introduction to Business Databases ℹ️
 
-## Other Courses
+## Other Courses!
 - `OLET2142` Sacred Feasts. Ritual Food and Drink 🧧
 - `OLET1518` Health Challenges: Weight Regulation 🏋🏻‍♀️
 - `OLET1634` Anxiety and its Disorders 😓
