@@ -1,4 +1,4 @@
-_Hello_! My name is **Salma**. I am an exchange student from Sydney, Australia pursuing a combined degree in Laws & Commerce ⚖️!
+_Hello_! My name is **Salma**. I am an exchange student from Sydney, Australia pursuing a combined degree in Laws & Commerce (Business Information Systems) ⚖️!
 
 Welcome to my page ☺️ 
 
